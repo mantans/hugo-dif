@@ -1,4 +1,4 @@
-baseURL: "http://example.org/"
+baseURL: "https://fabriziodifulvio.com/"
 title: Home
 paginate: 5
 theme: PaperMod
@@ -118,13 +118,13 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+    description: "8 anni di esperienza con ecommerce e attività online ad alto investimento di capitali. Ex Rocket Internet e Hometogo, mi occupo di strategia e gestione."
     author: admin
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
     # disableThemeToggle: true
-    ShowShareButtons: true
+    ShowShareButtons: false
     ShowReadingTime: true
     # disableSpecial1stPost: true
     displayFullLangName: true
