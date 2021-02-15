@@ -18,8 +18,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "date" }
-      - { label: "Tags", name: "tags", widget: "string" }
-      - { label: "Categories", name: "categories", widget: "string" }
+      - { label: "Tags", name: "tags", widget: "list", default: "ads" }
+      - { label: "Categories", name: "categories", widget: "list", default: "sales" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Featured Image", name: "image", widget: "image"}
       - { label: "Description", name: "description", widget: "string"}
