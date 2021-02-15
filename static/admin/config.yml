@@ -24,8 +24,8 @@ collections:
       - { label: "Featured Image", name: "image", widget: "image"}
       - { label: "Description", name: "description", widget: "string"}
 
-  - name: "posts"
-    label: "Posts"
+  - name: "about-me"
+    label: "About-me"
     folder: "content/about-me"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
