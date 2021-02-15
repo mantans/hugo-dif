@@ -1,27 +1,8 @@
 ---
-title: "My 1st post"
-date: 2020-09-15T11:30:03+00:00
-weight: 1
-# aliases: ["/first"]
-tags: ["first"]
-categories: ["Test"]
-author: "admin"
-# author: ["Me", "You"] # multiple authors
-showToc: false
-TocOpen: false
-draft: false
-hidemeta: false
-comments: false
-description: "Desc Text."
-disableHLJS: true # to disable highlightjs
-disableShare: true
-disableHLJS: false
-searchHidden: false
-cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
-
+title: Post di Prova
+date: 2021-02-15T17:23:13.329Z
+tags: ads
+categories: Canali & Adv
+description: Testo di Prova
 ---
+Testo di Prova
