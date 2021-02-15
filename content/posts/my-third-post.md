@@ -1,27 +1,11 @@
 ---
-title: "My 1st post"
-date: 2020-09-15T11:30:03+00:00
-# weight: 1
-# aliases: ["/first"]
-tags: ["first"]
-categories: ["Test"]
-author: "Me"
-# author: ["Me", "You"] # multiple authors
-showToc: true
-TocOpen: false
-draft: false
-hidemeta: false
-comments: false
-description: "Desc Text."
-disableHLJS: true # to disable highlightjs
-disableShare: false
-disableHLJS: false
-searchHidden: false
-cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
-
+title: Prova Primo Post
+date: 2021-02-15T15:25:39.904Z
+tags:
+  - Test2
+categories:
+  - Prova
+image: https://external-content.duckduckgo.com/iu/?u=https://tse1.mm.bing.net/th?id=OIP.pNlotasEH1cA2-pOV1eRogHaDt&pid=Api&f=1
+description: test
 ---
+Prova Primo Post
