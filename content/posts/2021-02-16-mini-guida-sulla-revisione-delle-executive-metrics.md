@@ -3,7 +3,7 @@ title: Mini-guida sulla revisione delle executive metrics
 date: 2021-02-16T14:30:23.017Z
 tags:
   - Metriche
-categories: Digitial Organization
+categories: Metriche & Analytics
 description: Mini-guida sulla revisione delle executive metrics
 ---
 ![Social Media KPI](/images/uploads/social-media-kpis.jpg "Social Media KPI")
