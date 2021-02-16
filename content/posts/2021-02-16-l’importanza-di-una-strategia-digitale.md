@@ -4,7 +4,7 @@ date: 2021-02-16T14:21:54.146Z
 tags:
   - Ads
   - Copywrite
-categories: Strategia
+categories: Digital Organization
 description: L’importanza di una strategia digitale
 ---
 ![Strategia Digitale](/images/uploads/strategia-digitale.png "Strategia Digitale")
