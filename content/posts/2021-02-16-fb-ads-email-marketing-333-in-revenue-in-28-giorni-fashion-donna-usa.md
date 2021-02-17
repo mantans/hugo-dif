@@ -1,15 +1,15 @@
 ---
 title: "Fb Ads & Email Marketing: +333% in revenue in 28 giorni | Fashion donna, USA"
-date: 2021-02-16T14:12:02.890Z
+date: 2020-11-15T14:12:02.890Z
 tags:
   - Ads
   - Facebook
+  - Strategy
+  - EmailMarketing
 categories: Strategia
 description: "Fb Ads & Email Marketing: +333% in revenue in 28 giorni | Fashion donna, USA"
 ---
 ![Facebook Ads](/images/uploads/fb-ads.png "Facebook Ads")
-
-
 
 **Revenue da 21k$ a 72k$**\
 **Investimento adv da 10k mese a 20k**\
@@ -17,28 +17,20 @@ description: "Fb Ads & Email Marketing: +333% in revenue in 28 giorni | Fashion 
 **Profitto da 11k a 50k**\
 **Leve usate: Fb Ads & Email marketing**
 
- 
-
 In questo articolo descrivo passo-passo il processo che ho utilizzato per ridimensionare e organizzare in maniera più strutturata, l’attività di un ecommerce americano usando Facebook Ads e email marketing.
 
 Racconto ciò che tramite la mia conoscenza ho testato, seguendo 5 step specifici che sono stati a tutti gli effetti, la spina dorsale dell’approccio utilizzato.
 
- 
-
 Il risultato?\
 Incassi per 70.269$ da $ 21.427 nei primi 28 giorni(18/01 – 16/02). ROI complessivo 3,44X. Pre-lockdown viaggiavamo su un ROAS 4X, ma decidiamo con la proprietà di stabilizzare le performance insieme all’investimento pubblicitario. Viriamo verso un atteggiamento più conservativo e di branding.
 
- 
-
 **Siamo riusciti a crescere in un periodo dell’anno tipicamente caratterizzato da una diminuzione delle vendite, quello post Q4. E questa cosa ha rilevato a tutti gli effetti l’ottimo potenziale dell’azienda.**
-
- 
 
 ## Quali sono i 5 step organizzativi utilizzati?
 
-## **1. Prepararsi al successo**
+## **1. Preparati**
 
-Niente retorica o motivazione spiccia, la situazione era questa: ho iniziato a lavorare con questo cliente e per rendere la collaborazione sostenibile nel lungo periodo le entrate sarebbero dovute crescere notevolmente.
+Niente motivazione spiccia, la situazione era questa: ho iniziato a lavorare con questo cliente e per rendere la collaborazione sostenibile nel lungo periodo le entrate sarebbero dovute crescere notevolmente.
 
 Durante l’anno le entrate mensili si assestavano intorno ai 20-30k$, e con questi ordini di grandezza l’attività non poteva continuare a rimanere a galla per molto.
 
@@ -64,7 +56,7 @@ Email marketing: sono stati implementati dei flussi di automazione inserendoli n
 
 Su Facebook tutto è stato settato tramite CBO, lasciando l’ottimizzazione all’algoritmo, alimentandolo con diversi formati visual, posizionamenti e copy.
 
-## 2. Definizione del quadro completo e creatività
+## 2. Definizione del quadro completo e delle creatività
 
 Il processo creativo è iniziato con l’analisi delle recensioni e dei feedback ricevuti nel tempo, dei comportamenti e modelli di acquisto riscontrati, e da un’accurata analisi dei post sui profili Instagram taggati con prodotti acquistati e/o utilizzati. Questo approccio è stato molto utile per ricercare di comprendere il perchè il prodotto veniva acquistato.
 
@@ -78,28 +70,26 @@ Il copy più performante è stato una recensione di un cliente soddisfatto del p
 
 Il vantaggio di svolgere correttamente una ricerca di mercato è proprio quello di non trovarsi a sparare a caso, ma di scoprire l’attuale stato delle cose con un ottimo grado di approssimazione.
 
- 
-
 ### Competitor Ads research
 
 Guardare gli approcci dei nostri migliori concorrenti è sempre un’ottima chiave di analisi.
 
 È una gran buona abitudine quella di monitorare ad intervalli regolari i propri competitor, che siano diretti o indiretti, e con il quale volendo o no ci dobbiamo confrontare: consultare dati (o tracce) che i loro utenti lasciano in rete e anche i loro profili, i loro annunci pubblicitari sui canali, gli account Ig e Fb e come viene gestita la loro comunicazione. Ci aiuta a sviluppare una migliore empatia verso il cliente, e il mettersi nei loro panni in questa giungla che si chiama mercato, ci farà creare degli ads più performanti.
 
-### Testare e scalare le creatività su Facebook.
+### Testare e scalare le creatività.
 
 Su Facebook è importante trovare le creatività che hanno la capacità di colpire con efficacia il nostro pubblico, utilizzando l’ottimizzazione a livello di campagna CBO e lasciando che l’algoritmo decida come meglio procedere secondo i nostri input.
 
 Operativamente prendiamo il secondo o terzo pubblico con il miglior rendimento e testiamo ogni annuncio con ognuno di questi pubblici – presumiamo di aver già trovato la giusta corrispondenza con il nostro miglior pubblico, e non vogliamo danneggiare o saturare il nostro target più performante.
 
-**Ogni campagna la testiamo per ogni adset per tutti gli ad(copy e visual). Tutti gli ad creati devono essere testati su tutti i target identificati per capire i più efficaci.**Il budget della campagna è deciso seguendo questa formula:\
-# di Adset x (CPA Break even x 2)
+**Ogni campagna la testiamo per ogni adset con tutti gli ad(copy e visual). Testiamo tutti gli ad creati su tutti i target identificati per capire quali sono i più efficaci.**\
+Il budget della campagna è deciso così:
+
+# \#Adset x (CPA Breakeven x 2)
 
 **Quick tip**: porre un limite di spesa agli annunci. Riponendo l’operatività tecnica nelle mani dell’algoritmo è possibile che alcuni degli annunci pubblicitari potrebbero essere bloccati a spesa 0. In questo modo non sapremo mai se l’annuncio sia valido o no. Con il limite si spesa assicuro un minimo di spesa per ogni ad.
 
 ![Facebook Ads 2](/images/uploads/fb-ads-2.png "Facebook Ads 2")
-
-
 
 ## 3. Email marketing
 
@@ -108,8 +98,6 @@ Fare affidamento esclusivamente su Facebook e Instagram Ads è una scelta troppo
 La definizione di una buona strategia di email marketing dà la possibilità di spendere meglio sui canali e scalare più velocemente. Diventa a tutti gli effetti un altro pilone portante con cui convertire meglio e in diversi momenti, il nostro traffico.
 
 Abbiamo aumentato le entrate dell’e-mail marketing dal 6-7% al 21-22%, aggiungendo alcune e-mail nel flusso, e puntando a costruire fiducia e relazione a più riprese con il cliente. Ecco cosa abbiamo fatto:
-
- 
 
 ### Sequenza del carrello abbandonato
 
@@ -125,8 +113,6 @@ Visto il nostro target – donne di età compresa tra 20 e 40 – le email devon
 
 L’analisi dei clienti anche in questo caso è stata di grande aiuto nel processo di creazione di copy e layout. Ci ha permesso di cercare soluzioni per connetterci con l’acquirente, superare le obiezioni più comuni, e costruire fiducia nel brand. E poi testing sugli argomenti da trattare, sulle subject line da utilizzare e sul timing.
 
- 
-
 La sequenza scelta è stata la seguente:
 
 * Prima e-mail inviata un’ora dopo aver abbandonato il carrello
@@ -135,8 +121,6 @@ La sequenza scelta è stata la seguente:
 * Quarta inviata sedici ore dopo l’ultima e-mail
 * Quinta inviata un giorno dopo l’ultima e-mail
 * Sesta e-mail inviata un giorno dopo l’ultima e-mail
-
- 
 
 Di seguito i contenuti:
 
@@ -147,15 +131,11 @@ Di seguito i contenuti:
 * **Email #5.** “Email dal CEO” offrendo un ultimo e esclusivo 20% Off.
 * **Email #6.** “Email dal CEO” ultimo reminder ricordando per l’ultima volta il carrello e determinando una scadenza di poche ore entro il quale utilizzare l’ultimo sconto ricevuto de 20%.
 
- 
-
 ### Sequenza di benvenuto
 
 La sequenza di benvenuto dovrà creare fiducia e iniziare a costruire una relazione con i nostri clienti. Focus sulla fornitura di contenuti di valore e sull’attenzione al brand.
 
 L’automazione di benvenuto viene attivata quando l’utente compie l’opt-in sul sito o tramite pop-up distribuiti all’interno delle pagine in maniera condizionata alla loro fruizione. L’incentivo di partenza utilizzato è un immediato 10% Off.
-
- 
 
 Ecco la struttura:
 
@@ -167,13 +147,9 @@ Ecco la struttura:
 * Email #6: Nuovo incentivo motivato con l’interesse dimostrato nel seguirci fino a questo momento: sconto del 15% per chi ha completato il flow.
 * Email #7: Portiamo l’incentivo al 20% per chi non l’ha ancora utilizzato. Brevissimo tempo di utilizzo. Spingiamo all’acquisto al massimo e per l’ultima volta.
 
- 
-
 N.B. la strategia scelta tiene conto del prodotto, del mercato, e dell’aggressività tipica del mercato in cui si opera. Ogni strategia deve sempre tenere conto della situazione attuale, delle caratteristiche dei clienti, e delle loro aspettative.
 
 Tutti i sending sono caratterizzati da invii condizionali a interazione e comportamenti riscontrati. Abbiamo posto molta attenzione a non far sovrapporre la ricezione degli sconti per non andare ad intaccare la percezione del brand. Successivamente all’utilizzo degli incentivi andremo a focalizzarci più sui contenuti ed eventualmente bundle.
-
- 
 
 ## **4. Retargeting**
 
@@ -185,8 +161,6 @@ Ora tutto dipende dalla customer journey definita e da quella potenziale. I perc
 – quanto tempo è necessario per prendere una decisione in merito all’acquisto?\
 – il prezzo è ancora percepito come alto?\
 – ci potrebbero essere delle prospettive nascoste e obiezioni che influenzano l’acquisto?
-
- 
 
 C’è bisogno di una grande attenzione al modo in cui impostare le campagne di retargeting, soprattutto nel settore moda donna. In questo caso specifico oltre all’ovvio lato emotivo, c’è anche un bel nesso di praticità che giustifica molte decisioni di acquisto. Tanto lavoro è stato dedicato per dimostrare la legittimità del brand, con video più focalizzati sul prodotto che puntano a stimolare consapevolezza, ma anche e soprattutto tramite testimonials e feedback, cercando di superare quante più obiezioni possibili.
 
@@ -216,9 +190,7 @@ Se si, chiudere il prima possibile, altrimenti essere pronti alla comparazione.
 
 ![Facebook Ads 4](/images/uploads/fb-ads-4.png "Facebook Ads 4")
 
-
-
-## 5. Scaling semplificato
+## 5. Scaling 
 
 La struttura che abbiamo utilizzato per iniziare a scalare dalla fase di prospecting è questa:
 
@@ -231,15 +203,13 @@ Campagna – Adset:
 5. *Interessi – Stories (migliori video ads con format per Stories).*
 6. *Broad / No Target – Stories (migliori video ads con format per Stories).* 
 
- 
-
 Budget: in questo caso mi è stato consigliato di impostarlo tra 10 e 20 volte il breakeven CPA per campagna. In caso di performance positive, procedere con un aumento graduale del 20-30% per campagna.
 
 **Quick tip:** La struttura che consiglio è quella che mira il più possibile alla semplicità. Poche campagne, per il semplice fatto che l’immagazzinamento di dati è aggregato a livello di singola campagna. Far lavorare più campagne insieme potrebbe influire sulle prestazioni e necessiterebbe di tempistiche di sviluppo più lunghe, a meno che lo spit non sia fatto per tipo di contenuti (i.e. campagne immagini vs video).
 
 ## Conclusioni
 
-Il 2020 sarà un anno complesso per le vendite online a causa dell’effetto post lockdown Covid. Tutto ciò implicherà verrà aggravato da un notevole aumento dei CPM e un rinforzamento della competizione sui canali. Gli aspetti su cui focalizzarsi sono:
+Il 2021 sarà un anno complesso per le vendite online a causa dell’effetto post lockdown Covid. Tutto ciò implicherà verrà aggravato da un notevole aumento dei CPM e un rinforzamento della competizione sui canali. Gli aspetti su cui focalizzarsi sono:
 
 1. Adottare strategie dirette a monetizzare il traffico attuale
 2. Creare e testare nuove creatività velocemente e in maniera continua
