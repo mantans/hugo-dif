@@ -1,6 +1,6 @@
 ---
 title: Valutare le emozioni può aumentare le possibilità di vendere?
-date: 2021-02-16T14:48:15.222Z
+date: 2020-09-14T13:48:15.222Z
 tags:
   - e-commerce
 categories: Sales
