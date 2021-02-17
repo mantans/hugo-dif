@@ -1,9 +1,10 @@
 ---
 title: L’importanza di una strategia digitale
-date: 2021-02-16T14:21:54.146Z
+date: 2020-10-14T13:21:54.146Z
 tags:
   - Ads
-  - Copywrite
+  - Copywriting
+  - Strategy
 categories: Digital Organization
 description: L’importanza di una strategia digitale
 ---
