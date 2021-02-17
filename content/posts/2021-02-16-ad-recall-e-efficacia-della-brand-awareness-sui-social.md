@@ -1,9 +1,11 @@
 ---
 title: Ad Recall e efficacia della Brand Awareness sui social
-date: 2021-02-16T14:33:48.427Z
+date: 2021-02-02T14:33:48.427Z
 tags:
   - Ads
   - Social
+  - AdRecall
+  - BrandAwareness
 categories: Canali & Adv
 description: Ad Recall e efficacia della Brand Awareness sui social
 ---
