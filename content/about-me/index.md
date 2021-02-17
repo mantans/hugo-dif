@@ -2,7 +2,7 @@
 title: About Me
 draft: false
 disableShare: true
-date: 2021-02-16T17:24:15.839Z
+date: 2020-09-08T16:24:15.839Z
 ---
 Mi occupo principalmente di advertising e di gestione della visibilità finalizzata alla vendita online.
 
@@ -24,9 +24,9 @@ Il tutto tramite la definizione del rapporto tra fonti di traffico, asset aziend
 
 **Per altre info ecco il mio profilo** [Linkedin](https://www.linkedin.com/in/fabrizio-di-fulvio-502b4815/).
 
-| BIO                                                                                                                                         | EDUCAZIONE                                                                                                                                     | APPROCCIO                                                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Nasco a pescare da una famiglia di commercianti.<br>Gioco a pallanuoto a livello nazionale per 7 anni e<br>mi diplomo al liceo scientifico. | Mi Laureo in Economia alla Bocconi e parto. Vivo a <br>Dublino, Sidney, Kuala Lumpur, New York, Londra e <br>Berlino.Torno in Italia nel 2017. | L'Advertising non e piu un costo ma un <br>investimento. Ricerco le necessita e creo una<br>struttura, i risultati arrivano con la collaborazione. |
+| BIO                                                                                                                                   | EDUCAZIONE                                                                                                                              | APPROCCIO                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Nasco a Pescara da una famiglia di commercianti. Gioco a pallanuoto a livello nazionale per 7 anni e mi diplomo al liceo scientifico. | Mi Laureo in Economia alla Bocconi e parto. Vivo a Dublino, Sidney, Kuala Lumpur, New York, Londra e Berlino. Torno in Italia nel 2017. | L'Advertising non è un costo ma un investimento. Ricerco le necessità e creo una struttura, i risultati arrivano con la collaborazione. |
 
 > ## In cosa credo
 >
@@ -47,9 +47,9 @@ Non esistono risultati certi, solamente studio delle specificità del mercato e 
 
 > ## Perchè lo faccio?
 >
-> Per parlare di web e marketing, senza favole, un mondo che è molto più integrato nella vita di tutti i giorni di quanto si possa credere. Delle relazioni che è possibile creare a di cosa dovrebbero fare oggi le aziende per essere redditizie nel lungo periodo. ***Pura opportunità, complessa, ma tanto efficace se ragionata bene***. Il marketing deve essere inteso come risorsa vitale, ossigeno per l’azienda.
-
-Se rinunci, anche parzialmente, sei mezzo morto.
+> Per parlare di web e marketing, senza favole, un mondo che è molto più integrato nella vita di tutti i giorni di quanto si possa credere. Delle relazioni che è possibile creare a di cosa dovrebbero fare oggi le aziende per essere redditizie nel lungo periodo. ***Pura opportunità, complessa, ma tanto efficace se ragionata bene***. Il marketing deve essere inteso come risorsa vitale, ossigeno per l’azienda.\
+> \
+> Se rinunci, anche parzialmente, sei mezzo morto.
 
 Provo ad essere d’aiuto a imprenditori e a tutti coloro che vogliono aumentare il proprio livello di conoscenza o che si vogliono mettere in gioco ad un livello superiore, operatività, pianificazione ed efficienza.
 
