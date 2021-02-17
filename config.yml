@@ -1,5 +1,5 @@
 baseURL: "https://fabriziodifulvio.com/"
-title: Home
+title: Fabrizio Di Fulvio
 paginate: 5
 theme: PaperMod
 
@@ -22,25 +22,25 @@ languages:
         menu:
             main:
                 - identifier: archives
-                  name: Archivi
+                  name: Talk
                   url: /archives/
-                  weight: 5
+                  weight: 10
                 - identifier: search
                   name: Cerca
                   url: /search/
-                  weight: 10
+                  weight: 30
                 - identifier: tags
                   name: Tags
                   url: /tags/
-                  weight: 10
+                  weight: 20
                 - identifier: categories
                   name: Categorie
                   url: /categories/
-                  weight: 10
+                  weight: 20
                 - identifier: about-me
                   name: About-me
                   url: /about-me/
-                  weight: 20
+                  weight: 5
     #  it:
     #      languageName: "Italian"
     #      weight: 2
@@ -159,7 +159,7 @@ params:
     #         - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
 
     homeInfoParams:
-        Title: "Fabrizio Di Fulvio | Digital Marketing Expert"
+        Title: "Digital Marketing Expert"
         Content: >
             - Strategia, pianificazione e customer experience. 
 
