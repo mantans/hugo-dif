@@ -1,8 +1,9 @@
 ---
-title: Mini-guida sulla revisione delle executive metrics
-date: 2021-02-16T14:30:23.017Z
+title: Mini-guida sulla revisione delle Executive Metrics
+date: 2020-10-05T13:30:23.017Z
 tags:
-  - Metriche
+  - Metrics
+  - Analytics
 categories: Metriche & Analytics
 description: Mini-guida sulla revisione delle executive metrics
 ---
