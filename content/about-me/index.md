@@ -24,8 +24,8 @@ Il tutto tramite la definizione del rapporto tra fonti di traffico, asset aziend
 
 **Per altre info ecco il mio profilo** [Linkedin](https://www.linkedin.com/in/fabrizio-di-fulvio-502b4815/).
 
-| BIO                                                                                                                                   | EDUCAZIONE                                                                                                                              | APPROCCIO                                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+|  BIO   | EDUCAZIONE | APPROCCIO |
+| ------ | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | *Nasco a Pescara da una famiglia di commercianti. Gioco a pallanuoto a livello nazionale per 7 anni e mi diplomo al liceo scientifico*. | *Mi Laureo in Economia alla Bocconi e parto. Vivo a Dublino, Sidney, Kuala Lumpur, New York, Londra e Berlino. Torno in Italia nel 2017*. | *L'Advertising non è un costo ma un investimento. Ricerco le necessità e creo una struttura, i risultati arrivano con la collaborazione*. |
 
 > ## In cosa credo
