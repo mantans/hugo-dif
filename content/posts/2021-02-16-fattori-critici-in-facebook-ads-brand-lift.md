@@ -1,24 +1,22 @@
 ---
 title: Fattori critici in Facebook Ads + Brand Lift
-date: 2021-02-16T14:35:54.571Z
+date: 2020-12-24T14:35:54.571Z
 tags:
   - Ads
-  - Metriche
+  - Metrics
+  - Facebook
+  - BrandLift
 categories: Canali & Adv
 description: Fattori critici in Facebook Ads + Brand Lift
 ---
 ![Fattori Critici](/images/uploads/fattori-critici.png "Fattori Critici")
 
-
-
 Come inseguire l’efficacia su Facebook e come stabilire un approccio che tenga conto delle variabili fondamentali per incanalare l’interesse degli utenti?
 
-### La Frequenza è un dato importantissimo
+### La Frequenza è importantissima
 
 Solitamente le campagne con livelli di frequenza non adeguati comportano particolari sprechi in ottica di impatto dell’attività pubblicitaria sul brand. Per poter far ricordare un brand e arrivare a sviluppare un’intenzione all’acquisto in un tipo di traffico tendenzialmente freddo, **c’è una frequenza minima che sin da subito dovrebbe essere prevista.**\
 Considerare livelli di frequenza adeguati in base alla fase dell’azienda e all’attività di campagna, dovrebbe far parte del processo di pianificazione della campagna, indipendentemente dall’obiettivo di per sè, per aumentare le probabilità della sua riuscita.
-
- 
 
 ### Mercato, messaggio, fattori media e influenza
 
@@ -28,12 +26,8 @@ In realtà però **non esiste un livello di frequenza esatto**, non possiamo de
 
 ![Fatto Critici 2](/images/uploads/fattori-critici-2.png "Fatto Critici 2")
 
-
-
 Lavorare con i limite può essere molto delicato e il rischio di sviluppare ad-fatigue precocemente può risultare in una grossa perdita economica e di efficienza dell’investimento pubblicitario.\
 **Una strategia ad alta frequenza** può essere vantaggiosa per marchi nuovi, con una quota di mercato bassa o che stanno conducendo campagne relativamente brevi ma ricorrenti. **Una frequenza bassa** può essere una scelta in bassa stagione, quando è necessario mantenere una certa presenza su certe audience, ma possiamo lasciare stabile la stimolazione degli acquisti.
-
- 
 
 ### Su cosa focalizzarsi?
 
@@ -54,15 +48,13 @@ Impatto generato che insita nella relazione tra frequenza e brand lift. Chi valu
 
 **– Frequenza da pianificare in base al mercato, messaggio pubblicitario e di brand, struttura Media e gestione tecnica del canale.**Non esiste una formula ottimale per soddisfare i requisiti di frequenza di una strategia commerciale e di brand. Sono da considerare le caratteristiche del mercato di riferimento, quelle del messaggio che l’azienda vuole veicolare, e la struttura (i.e. l’investimento) del comparto Media. Avere una visione ampia e cosciente sull’andamento strategico di lungo periodo delle campagne, sovraordinata rispetto alla gestione tecnica, è la regola da rispettare per avere il più possibile il polso della situazione. Riuscire a cambiare direzione in corso, e ottimizzare l’operatività affinchè si arrivi ad un livello di efficienza sufficiente da rispettare determinati standard di risultati attesi.
 
- 
-
 ### Che cos’è il Brand Lift?
 
 Il Brand Lift è un diffuso aumento dell’interazione con un brand (sui canali Push) e della sua ricerca (Pull, i.e. Google Search), a seguito di una o più campagne pubblicitarie. Viene principalmente utilizzato per identificare e cercare un cambiamento nella consapevolezza e percezione da parte dei clienti rispetto alla bontà ed efficienza della attività pubblicitaria.
 
 Le metriche relative al monitoraggio del Brand Lift in genere **si riferiscono a pareri espressi degli utenti** in merito a:
 
-– Awareness: attenzione e consapevolezza del brand, prodotto o offerta
+– **Awareness**: attenzione e consapevolezza del brand, prodotto o offerta
 
 – **Attitude**: opinione sulla qualità, valore e attrattiva
 
@@ -70,11 +62,11 @@ Le metriche relative al monitoraggio del Brand Lift in genere **si riferiscono 
 
 – **Favorability**: possibilità di raccomandare il prodotto o servizio a persone che non lo conoscono
 
-– Intent: intenzione a valutare la possibilità di acquisto
+– **Intent**: intenzione a valutare la possibilità di acquisto
 
 Aspetti comunque difficili da misurare.
 
- 
+
 
 Quali sono i modi per misurarli in maniera efficace?
 
