@@ -21,9 +21,9 @@ languages:
         weight: 1
         menu:
             main:
-                - identifier: archives
+                - identifier: talk
                   name: Talk
-                  url: /archives/
+                  url: /talk/
                   weight: 10
                 - identifier: search
                   name: Cerca

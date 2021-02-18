@@ -1,6 +1,6 @@
 ---
-title: "Archivi"
+title: "Talk"
 layout: "archives"
-url: "/archives/"
-summary: archives
+url: "/talk/"
+summary: talk
 ---
