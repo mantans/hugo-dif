@@ -4,6 +4,7 @@ draft: false
 disableShare: true
 date: 2020-09-08T16:24:15.839Z
 ---
+
 Mi occupo principalmente di advertising e di gestione della visibilità finalizzata alla vendita online.
 
 Nel tempo ho raggiunto una buona conoscenza di CMS, tracking, e di valutazione di modifiche in ambienti personalizzati e attraverso sistemi di app terze.
@@ -24,9 +25,17 @@ Il tutto tramite la definizione del rapporto tra fonti di traffico, asset aziend
 
 **Per altre info ecco il mio profilo** [Linkedin](https://www.linkedin.com/in/fabrizio-di-fulvio-502b4815/).
 
-| BIO                                                                                                                                     | EDUCAZIONE                                                                                                                                | APPROCCIO                                                                                                                      |
-| --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| *Nasco a Pescara da una famiglia di commercianti. Gioco a pallanuoto a livello nazionale per 7 anni e mi diplomo al liceo scientifico*. | *Mi Laureo in Economia alla Bocconi e parto. Vivo a Dublino, Sydney, Kuala Lumpur, New York, Londra e Berlino. Torno in Italia nel 2017*. | *L'Advertising è un investimento. Ricerco le necessità e creo una struttura, i risultati arrivano con tempo e collaborazione.* |
+| BIO 	|
+|:-:	|
+| *Nasco a Pescara da una famiglia di commercianti*.<br> *Gioco a pallanuoto a livello nazionale per 7 anni*.<br> *Mi Diplomo al liceo scientifico*. 	|
+
+| EDUCAZIONE 	|
+|:-:	|
+| *Mi Laureo in Economia alla Bocconi e parto*.<br> *Vivo a Dublino, Sydney, Kuala Lumpur, New York, Londra e Berlino*.<br> *Torno in Italia nel 2017*. 	|
+
+| APPROCCIO 	|
+|:-:	|
+| *L'Advertising è un investimento*. *Ricerco la necessità*<br> *e creo una struttura, i risultati arrivano con tempo*<br> *e collaborazione*. 	|
 
 > ## In cosa credo
 >

@@ -1,0 +1,13 @@
+table {
+  display: block;
+  max-width: -moz-fit-content;
+  max-width: fit-content;
+  margin: 0 auto;
+  overflow-x: auto;
+}
+
+th { 
+	background: #748088; 
+	color: white; 
+	font-weight: bold; 
+	}
