@@ -4,7 +4,6 @@ draft: false
 disableShare: true
 date: 2020-09-08T16:24:15.839Z
 ---
-
 Mi occupo principalmente di advertising e di gestione della visibilità finalizzata alla vendita online.
 
 Nel tempo ho raggiunto una buona conoscenza di CMS, tracking, e di valutazione di modifiche in ambienti personalizzati e attraverso sistemi di app terze.
@@ -23,19 +22,19 @@ Il tutto tramite la definizione del rapporto tra fonti di traffico, asset aziend
 
 *Ho collaborato con aziende come TheProteinWorks, Karcher, Euronics, StrongerLabel, Modomoto, MC2SaintBarth, Habitissimo, RisoScotti, e altre nei settori più disparati, sia in situazioni di digitalizzazione dei processi e creazione del team, che di ottimizzazione e aumento delle performance*.
 
-**Per altre info ecco il mio profilo** [Linkedin](https://www.linkedin.com/in/fabrizio-di-fulvio-502b4815/).
+**Per altre info, qui il mio profilo** [Linkedin](https://www.linkedin.com/in/fabrizio-di-fulvio-502b4815/).
 
-| BIO 	|
-|:-:	|
-| *Nasco a Pescara da una famiglia di commercianti*.<br> *Gioco a pallanuoto a livello nazionale per 7 anni*.<br> *Mi Diplomo al liceo scientifico*. 	|
+| BIO                                                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Nasco a Pescara da una famiglia di commercianti*.<br> *Gioco a pallanuoto a livello nazionale per 7 anni*.<br> *Mi diplomo al liceo scientifico*. |
 
-| EDUCAZIONE 	|
-|:-:	|
-| *Mi Laureo in Economia alla Bocconi e parto*.<br> *Vivo a Dublino, Sydney, Kuala Lumpur, New York, Londra e Berlino*.<br> *Torno in Italia nel 2017*. 	|
+| EDUCAZIONE                                                                                                                                            |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *Mi Laureo in Economia alla Bocconi e parto*.<br> *Vivo a Dublino, Sydney, Kuala Lumpur, New York, Londra e Berlino*.<br> *Torno in Italia nel 2017*. |
 
-| APPROCCIO 	|
-|:-:	|
-| *L'Advertising è un investimento*. *Ricerco la necessità*<br> *e creo una struttura, i risultati arrivano con tempo*<br> *e collaborazione*. 	|
+| APPROCCIO                                                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------------------------------------- |
+| *L'Advertising è un investimento*. *Ricerco la necessità*<br> *e creo una struttura, i risultati arrivano con tempo*<br> *e collaborazione*. |
 
 > ## In cosa credo
 >
@@ -47,7 +46,6 @@ Le informazioni sono tutte online, ma bisogna sapere dove e come cercare. La cen
 > ## Come va avanti un’attività online?
 >
 > Ogni business deve sviluppare delle proprie modalità di relazione che sono molto diverse anche tra aziende apparentemente simili. Gli obiettivi intermedi e come si raggiungono sono diversi. **Per questo motivo quando si parla di strategia non ne esistono di perfettamente replicabili**: ci sarebbero troppi aspetti da allineare forzatamente con la possibilità di stravolgere completamente l’outcome aspettato.
->
 >
 > Definire una strategia vuol dire avere una visione - nel breve, medio e lungo in maniera distinta. Sapere la strada che si sta percorrendo e per quale motivo.
 
