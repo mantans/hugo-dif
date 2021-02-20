@@ -38,7 +38,9 @@ Le informazioni sono tutte online, ma bisogna sapere dove e come cercare. La cen
 > ## Come va avanti un’attività online?
 >
 > Ogni business deve sviluppare delle proprie modalità di relazione che sono molto diverse anche tra aziende apparentemente simili. Gli obiettivi intermedi e come si raggiungono sono diversi. **Per questo motivo quando si parla di strategia non ne esistono di perfettamente replicabili**: ci sarebbero troppi aspetti da allineare forzatamente con la possibilità di stravolgere completamente l’outcome aspettato.
-> Definire una strategia vuol dire avere una visione, sapere la strada che si sta percorrendo e per quale motivo nel breve, medio e lungo periodo.
+>
+>
+> Definire una strategia vuol dire avere una visione - nel breve, medio e lungo in maniera distinta. Sapere la strada che si sta percorrendo e per quale motivo.
 
 **Per chi guida questi processi, condizione necessaria è la conoscenza degli strumenti, dei canali e delle dinamiche che li caratterizzano *e conoscerne l'operatività.*** \
 **Poi flessibilità d’approccio e di gestione, e mantenere una formazione continua, meglio se da chi opera in mercati molto grandi**. 
