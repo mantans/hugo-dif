@@ -32,26 +32,23 @@ Il tutto tramite la definizione del rapporto tra fonti di traffico, asset aziend
 >
 > Non sono un mago e non creo vendite dal nulla da un giorno all’altro. Scappare da chi ne promette. Alla base del mio lavoro c’è il rapporto strettissimo tra assumptions, ipotesi, testing, tanta ricerca e collaborazione tra i responsabili. 
 
-*Valuto nuove attività e processi in base ai numeri disponibili, **se non ce ne sono bisogna trovarli (NON con 1000€ al mese),** analisi di mercato, caratteristiche del prodotto e strategie da mettere in atto*.
+*Valuto nuove attività e processi in base ai numeri disponibili,* **se non ce ne sono bisogna trovarli (NON con 1000€ al mese)*,*** *analisi di mercato, caratteristiche del prodotto e strategie da mettere in atto*.
 Le informazioni sono tutte online, ma bisogna sapere dove e come cercare. La centralità dell’utente è totale, la comunicazione deve essere chiara, diretta e all’insegna dell’interazione.
-
-
 
 > ## Come va avanti un’attività online?
 >
-> Ogni business deve sviluppare delle proprie modalità di relazione che sono molto diverse anche tra aziende apparentemente simili. Gli obiettivi intermedi e come si raggiungono sono diversi. ***Per questo motivo quando si parla di strategia non ne esistono di perfettamente replicabili***: ci sarebbero troppi aspetti da allineare forzatamente con la possibilità di stravolgere completamente l’outcome aspettato.
+> Ogni business deve sviluppare delle proprie modalità di relazione che sono molto diverse anche tra aziende apparentemente simili. Gli obiettivi intermedi e come si raggiungono sono diversi. **Per questo motivo quando si parla di strategia non ne esistono di perfettamente replicabili**: ci sarebbero troppi aspetti da allineare forzatamente con la possibilità di stravolgere completamente l’outcome aspettato.
 > Definire una strategia vuol dire avere una visione, sapere la strada che si sta percorrendo e per quale motivo nel breve, medio e lungo periodo.
 
-***Per chi guida questi processi, condizione necessaria è la conoscenza degli strumenti, dei canali e delle dinamiche che li caratterizzano, avere tanta flessibilità d’approccio e di gestione e mantenere una formazione continua, meglio se da operatori con mercati grandi***. 
-Fondamentale è il focus sul prodotto, sul target di riferimento e sui suoi bisogni. 
+**Per chi guida questi processi, condizione necessaria è la conoscenza degli strumenti, dei canali e delle dinamiche che li caratterizzano *e conoscerne l'operatività.*** \
+**Poi flessibilità d’approccio e di gestione, e mantenere una formazione continua, meglio se da chi opera in mercati molto grandi**. 
+Fondamentale è il focus sul prodotto, sul target e sui suoi bisogni. 
 
 Non esistono risultati certi, solamente studio delle specificità del mercato e dei concorrenti, con il continuo aggiornamento di tecniche, strumenti e previsioni.
 
-
-
 > ## Perchè lo faccio?
 >
-> Per parlare di web e marketing, senza favole, un mondo che è molto più integrato nella vita di tutti i giorni di quanto si possa credere. Delle relazioni che è possibile creare a di cosa dovrebbero fare oggi le aziende per essere redditizie nel lungo periodo. ***Pura opportunità, complessa, ma tanto efficace se ragionata bene***. Il marketing deve essere inteso come risorsa vitale, ossigeno per l’azienda.\
+> Per parlare di web e marketing, senza favole, un mondo che è molto più integrato nella vita di tutti i giorni di quanto si possa credere. Delle relazioni che è possibile creare a di cosa dovrebbero fare oggi le aziende per essere redditizie nel lungo periodo. **Pura opportunità, complessa, ma tanto efficace se ragionata bene**. Il marketing deve essere inteso come risorsa vitale, ossigeno per l’azienda.\
 > \
 > Se rinunci, anche parzialmente, sei mezzo morto.
 
