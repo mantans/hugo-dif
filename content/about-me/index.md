@@ -24,16 +24,18 @@ Il tutto tramite la definizione del rapporto tra fonti di traffico, asset aziend
 
 **Per altre info ecco il mio profilo** [Linkedin](https://www.linkedin.com/in/fabrizio-di-fulvio-502b4815/).
 
-|   BIO  | EDUCAZIONE | APPROCCIO |
-| ------ | ---------- | --------- |
-| *Nasco a Pescara da una famiglia di commercianti. Gioco a pallanuoto a livello nazionale per 7 anni e mi diplomo al liceo scientifico*. | *Mi Laureo in Economia alla Bocconi e parto. Vivo a Dublino, Sidney, Kuala Lumpur, New York, Londra e Berlino. Torno in Italia nel 2017*. | *L'Advertising non è un costo ma un investimento. Ricerco le necessità e creo una struttura, i risultati arrivano con la collaborazione*. |
+| BIO                                                                                                                                     | EDUCAZIONE                                                                                                                                | APPROCCIO                                                                                                                      |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| *Nasco a Pescara da una famiglia di commercianti. Gioco a pallanuoto a livello nazionale per 7 anni e mi diplomo al liceo scientifico*. | *Mi Laureo in Economia alla Bocconi e parto. Vivo a Dublino, Sydney, Kuala Lumpur, New York, Londra e Berlino. Torno in Italia nel 2017*. | *L'Advertising è un investimento. Ricerco le necessità e creo una struttura, i risultati arrivano con tempo e collaborazione.* |
 
 > ## In cosa credo
 >
-> Non sono un mago e non creo vendite dal nulla da un giorno all’altro. Scappare da chi ne promette.
+> Non sono un mago e non creo vendite dal nulla da un giorno all’altro. Scappare da chi ne promette. Alla base del mio lavoro c’è il rapporto strettissimo tra assumptions, ipotesi, testing, tanta ricerca e collaborazione tra i responsabili. 
 
-Alla base del mio lavoro c’è il rapporto strettissimo tra assumptions, ipotesi, testing, tanta ricerca e collaborazione tra i responsabili. ***Valuto nuove attività e processi in base ai numeri disponibili, se non ce ne sono bisogna trovarli (NON con 1000€ al mese), analisi di mercato, caratteristiche del prodotto e possibili strategie da attuare***.
+*Valuto nuove attività e processi in base ai numeri disponibili, **se non ce ne sono bisogna trovarli (NON con 1000€ al mese),** analisi di mercato, caratteristiche del prodotto e strategie da mettere in atto*.
 Le informazioni sono tutte online, ma bisogna sapere dove e come cercare. La centralità dell’utente è totale, la comunicazione deve essere chiara, diretta e all’insegna dell’interazione.
+
+
 
 > ## Come va avanti un’attività online?
 >
@@ -44,6 +46,8 @@ Le informazioni sono tutte online, ma bisogna sapere dove e come cercare. La cen
 Fondamentale è il focus sul prodotto, sul target di riferimento e sui suoi bisogni. 
 
 Non esistono risultati certi, solamente studio delle specificità del mercato e dei concorrenti, con il continuo aggiornamento di tecniche, strumenti e previsioni.
+
+
 
 > ## Perchè lo faccio?
 >
