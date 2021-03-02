@@ -1,20 +1,20 @@
 ---
-title: Defining Luxury Shoppers in the eCommerce Marketing World
+title: "Luxury Shoppers: tra offline e ecommerce"
 date: 2021-02-28T22:00:42.718Z
 tags:
   - luxuryshoppers
 categories: Digital Organization
 description: Defining Luxury Shoppers in the eCommerce Marketing World
 ---
-![](/images/uploads/1_h3iee-ayky58butwxcp8mw.jpeg)
+![](/images/uploads/2020-12-02t155123z_879794527_rc23fk9ao34b_rtrmadp_3_health-coronavirus-britain-e1611696366658.jpg)
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -53,9 +53,9 @@ description: Defining Luxury Shoppers in the eCommerce Marketing World
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="375">
@@ -632,9 +632,9 @@ description: Defining Luxury Shoppers in the eCommerce Marketing World
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Unresolved Mention"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -658,76 +658,70 @@ description: Defining Luxury Shoppers in the eCommerce Marketing World
 	mso-bidi-theme-font:minor-bidi;
 	mso-ansi-language:EN-GB;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
-Il marketing negli e-commerce è ancora materia ostica. Per chi non conosce (e sono in molti) le dinamiche su cui si sviluppa, è terreno insidioso. Tra ricorso ad agenzie che nascono come funghi, e la non chiarezza dovuta alla mancanza di almeno una persona esperta interna o vicina all’azienda, spesso le situazioni non solo sono poco rosee, ma anche organizzate proprio male.
+Necessariamente si parte da come è percepito il marketing oggi, e per molti e-commerce è ancora materia ostica. Per i molti che non conoscono le dinamiche su cui si sviluppa, è terreno insidioso. Tra ricorso ad agenzie che nascono come funghi, e la non chiarezza di vedute causa mancanza di almeno una persona interna esperta, ciò che ne deriva è spesso una gestione non contestualizzata e organizzata male.
 
- 
+## Come si fa la differenza?
 
-Il problema però è che ora è essenziale sapere ed operare con una visione a 360 gradi, per controllare, definire e pianificare la crescita, in termini organici e di vendite, oltre che calcolare l’impatto delle attività su ogni canale e audience.
+Il problema è nella necessità di sapere ed operare con una visione a 360 gradi, per controllare, definire e pianificare la crescita, in termini organici e di vendite. Oltre al fatto che calcolare l’impatto delle attività su ogni canale e audience, è l’unica chiave che porti ad una conduzione virtuosa.
 
-Il settore del lusso vive un’evoluzione importante, data anche dagli effetti della pandemia e il rallentamento delle vendite nei negozi tradizionali.
+Il settore del lusso vive un’evoluzione importante, data dagli effetti della pandemia e il rallentamento delle vendite nei negozi tradizionali.
 
-La sfida è quella di capire i dati demografici dei propri utenti nelle nazioni più importanti. Sviluppare la capacità di indirizzare questi dati, segmentandoli. Un’operatività su gruppi di utenti più piccoli, di cui si capiscono i particolari e le esigenze, e che dà vita ad un servizio personalizzato, secondo la conoscenza del brand e al tipo di interazioni effettuate.
+**La sfida è nel capire i dati demografici dei propri utenti** nelle nazioni più importanti, quindi sviluppare la capacità di indirizzare questi dati, segmentandoli. **Un’operatività che per garantire un’efficienza più capillare si sposta su gruppi di utenti più piccoli,** di cui si capiscono i particolari e le esigenze, dando vita ad un servizio personalizzato, secondo la conoscenza del brand e del tipo di interazioni effettuate.
 
-Se ci pensiamo meglio, è l’opportunità migliore che ci potrebbe capitare: conoscere chi ci guarda, chi ci segue e chi compra da noi, per parlarci, vedere cosa vuole, e accontentarlo in modo continuo. Tutto ciò che una qualsiasi attività commerciale dovrebbe priorizzare per puntare al successo.
+Se ci pensiamo meglio, è l’opportunità migliore che potrebbe capitare a qualsiasi attività retail: conoscere chi ci guarda, chi ci segue e chi compra, per parlarci, vedere a cosa è veramente interessato, e accontentarlo. Tutto ciò che una qualsiasi attività commerciale dovrebbe priorizzare per puntare al successo.
 
- 
+Questa rinnovata necessità sottolinea l'importanza di concentrarsi sulla crescita in termini non solo di vendite, ma di quelle fasi quali Awareness e Consideration. Il gap informativo tra chi decide in azienda e la funzione del marketing online è il problema. Barriera questa che se superata non solo alimenterà le vendite negli e-commerce come primissimo effetto, ma svilupperà sinergie tali da spingere clienti anche nei punti vendita fisici, andando a stimolare fortemente ciò che nell’ultimo anno è stato dormiente: le vendite negli store.
 
-Ciò ha sottolineato l'importanza di concentrarsi sulla crescita online in termini non solo di vendite, ma soprattutto di Awareness e Consideration. Il gap informativo tra aziende e marketing online è la barriera. Barriera che se superata non solo alimenta le vendite negli e-commerce, ma può anche spingere potenziali clienti a visitare i negozi fisici quando la situazione sanitaria sarà alla spalle. Utilizzare al meglio i soldi investiti nel marketing digitale, lavorare puntando anche un obiettivo offline, partendo con una massimizzazione della visibilità di brand e del messaggio e stile di vita che vuole veicolare.
+Per riuscirci bisogna però utilizzare meglio l’investimento nel marketing digitale, lavorare puntando anche un obiettivo offline, partendo con una massimizzazione della visibilità di brand, veicolando messaggio e stile sotto diversi punti di vista.
 
- 
+## Come e da dove partire?
 
-## Marketing per le aziende del lusso, dove e come partire?
+Rivolgersi ai potenziali clienti attraverso tipi di contenuti diversi ma collegati tra loro. È il primo step per organizzare una customer journey che copra tutti gli aspetti di avvicinamento al brand e all’acquisto.
 
-Rivolgersi ai potenziali clienti attraverso diversi tipi di contenuti. È il primo step per organizzare una customer journey che copra tutti gli aspetti di avvicinamento al brand e all’acquisto.
-
-Quali contenuti però?
+### Quali contenuti?
 
 Il rischio concreto nel settore del lusso non è quello di attirare interesse, sicuramente, ma svilupparlo in un target di utenti pretenziosi ma con possibilità non adatte a sostenere costi sostenuti di acquisto.
 
- Chi non si è mai soffermato su immagini di case da sogno, di feste particolari o di un'auto sportiva? Si tratta più di condividere un sogno ad occhi aperti su un oggetto di lusso in particolare che di valutare seriamente un acquisto.
+Spesso infatti si tratta più di condividere un sogno ad occhi aperti su un oggetto di lusso in particolare, più che di valutare seriamente un acquisto.
 
-Lavorare con un target del genere, può essere divertente, tuttavia, per chi paga clic o display, è un grande spreco.
+Lavorare con un target del genere, può essere importante per la conoscibilità del brand, tuttavia, per chi paga clic o display, è uno spreco. Capire quindi quando e come alternare la massimizzazione di visibilità con obiettivo conoscibilità e vendite.
 
-Il problema si pone in modo minore se il marketing iniziasse ad essere approcciato dati e comportamenti alla mano.
+Arrivati a questo punto non ci sarebbe nessun tipo di problematica strategica solo se le scelte di marketing iniziassero ad essere approcciate secondo dati e comportamenti osservati.
 
-### Lavorare con un targeting per località?
+### Lavorare con un targeting per località
 
-Può essere una strategia interessante per chi ha negozi in determinate zone.
+Può essere una strategia interessante per chi ha negozi sul territorio.
 
-Il comportamento da tenere deve essere il seguente. Come le società di sviluppo immobiliare pensano accuratamente dove costruire il loro prossimo condominio di lusso, oppure i gioiellieri di fascia alta o altri dettaglianti del lusso, valutano attentamente quali quartieri dello shopping scegliere per nuove aperture. I clienti degli e-commerce possono confrontare, fare acquisti e acquistare ovunque, ma è verosimile che verranno trovati per lo più nelle stesse tipologie di aree che aiuterebbero un punto vendita fisico a prosperare.
+Come le società di sviluppo immobiliare pensano accuratamente dove costruire il loro prossimo condominio di lusso, oppure i gioiellieri o altri dettaglianti del lusso, valutano attentamente quali quartieri dello shopping scegliere per le nuove aperture. I clienti degli e-commerce possono confrontare, fare acquisti ovunque, ma è verosimile che verranno trovati per lo più nelle stesse tipologie di aree che aiuterebbero un punto vendita fisico a lavorare con certi risultati.
 
-Tenendo questo a mente, è il caso di prendere in considerazione alcune modalità dl targeting per località:
+Tenendo questo a mente, è giusto iniziare a considerare alcune modalità dl targeting per località in base a:
 
-• Comportamento passato e influenza del punto vendita: rivolgersi a persone che hanno visitato o visto la sede fisica di un brand può funzionare. Anche se il consumatore non ha acquistato, forse frequentando quella zona può essere effettivamente interessato al lusso.
+• Comportamento passato e influenza del punto vendita.\
+Rivolgersi a persone che hanno visitato o visto la sede fisica di un brand può funzionare. Anche se il consumatore non ha acquistato, frequentando quella zona c’è la possibilità che possa essere interessato al lusso.
 
-• Posizione geografica delle abitazioni: l'ubicazione e il valore delle case o di un affitto possono aiutare a suggerire la fascia di prezzo e la qualità con cui un consumatore potrebbe sentirsi a proprio agio. Proprio come i punti vendita fisici per i prodotti di fascia alta si rivolgeranno alle comunità ad alto reddito e saranno in zone ricche delle città, così dovrebbero iniziare a pensare i brand del lusso che vendono online.
+• Posizione geografica delle abitazioni.\
+L'ubicazione e il valore delle case possono aiutare a suggerire la fascia di prezzo e la qualità con cui un consumatore potrebbe sentirsi a proprio agio. Proprio come i punti vendita fisici per i prodotti di fascia alta si rivolgeranno alle comunità ad alto reddito e saranno in zone ricche delle città, così dovrebbero iniziare a pensare i brand del lusso che vendono online.
 
- 
+**Ci sono diversi casi studio che dimostrano una forte correlazione tra la vicinanza al punto di acquisto e il rendimento degli ads, con un nesso diretto tra CTR e aumento del traffico in-store**. In particolare, una pubblicità mirata ha mostrato che il CTR ottimale si trova entro i 10 km dal punto retail. Questo tipo di pubblicità basata sulla posizione/localizzazione è 3 volte migliore di un CTR generalizzato e provoca – soprattutto in campagne specifiche – un aumento del 70% del walk-in.
 
-Non c’è bisogno di immaginarla questa cosa. Ci sono diversi casi studio che dimostrano una forte correlazione tra la vicinanza al punto di acquisto e il rendimento degli ads, con un nesso diretto tra CTR e aumento del traffico in-store. In particolare, una pubblicità mirata ha mostrato che il CTR ottimale si trova entro i 10 km dal punto retail. Questo tipo di pubblicità basata sulla posizione/localizzazione è tre volte migliore di un CTR generalizzato e provoca un aumento del 70% del walk-in per campagne specifiche. Inoltre la sovrapposizione dei dati – Like & reazioni varie, Stories, Check-in, Tweet etc. – con i dati sulla posizione consente un targeting ad alta precisione e impatto. La combinazione di dati geolocalizzati con approfondimenti demografici e dati sulle transazioni può aiutare a creare audience personalizzate molto preziose e utili per un brand rispetto alle alternative attualmente disponibili.
+Inoltre considerare la potenza derivante la sovrapposizione dei dati – Like & reazioni varie, Stories, Check-in, Tweet etc. – con quelli sulla posizione, che consente ai canali un targeting ad alta precisione e impatto, dando vita a audience personalizzate molto preziose e utili per un brand.
 
-Queste sono tendenze e scelte su cui allinearsi non assolute ma da contestualizzare, in base all’obiettivo che si vuole perseguire.
+Queste sono tendenze e scelte potenziali su cui un brand del lusso oggi deve fare i conti, allinearsi, ma che non sono da intraprendere in maniera assoluta. Devono essere attentamente contestualizzate, utilizzate in base alla definizione di una strategia precisa che determinerà gli obiettivi particolari da perseguire.
 
- 
-
-## Concentrarsi sui millennial
+### Concentrarsi sui millennial
 
 Shopify ha pubblicato previsioni ottimistiche sul futuro delle vendite del lusso online. In particolare, la prima fascia di millennial è caratterizzata da individui ormai adulti, arrivati ​​al picco della loro possibilità di spesa. È veritiero pensare che potrebbero essere particolarmente inclini ad acquistare beni di fascia alta per traguardi del ciclo di vita o anche semplicemente siano più inclini a soddisfarsi nonostante il prezzo.
 
- 
+Rispetto ad altre generazioni, nei millennial la convivenza tra offline e online è marcata: preferiscono l’informazione, il confronto e l'acquisto online, ma l’attenzione all’esperienza offline è sempre concreta. In passato, i marchi del lusso si sono concentrati sulla differenziazione dei loro prodotti enfatizzando qualità e esclusività. Cercare di accontentare il maggior numero di persone, di diverse fasce d’età e con stili diversi è stata una scelta vincente in passato e ha ancora oggi il suo perchè, ma il cambiamento è una costante da valutare e una comunicazione più profonda, personale ed etica, supporta il brand meglio e prospetta uno sviluppo progettuale con un orizzonte temporale ampio.
 
-Rispetto a generazioni più anziane, i millennial preferiscono l’informazione, il confronto e l'acquisto online, il punto di partenza è ottimo. In passato, i marchi di lusso si sono concentrati sulla differenziazione dei loro prodotti enfatizzando la qualità e l'esclusività. Cercare di accontentare il maggior numero di persone, di diverse fasce d’età e con stili diversi è stata una scelta vincente in passato e ha ancora oggi il suo perchè, ma il cambiamento è una costante da valutare e oggi una comunicazione più profonda, personale ed etica, supporta il brand meglio e prospetta uno sviluppo progettuale con un orizzonte temporale ampio.
+Ad esempio, Gucci afferma che questi giovani adulti guidano quasi la metà di tutte le proprie vendite. Tra tutti il particolare successo riscontrato con il progetto **Gucci Equilibrium, che evidenzia gli sforzi per promuovere sostenibilità, diversità e inclusione.**
 
-Ad esempio, Gucci afferma che questi giovani adulti guidano quasi la metà di tutte le proprie vendite. A confermare questa tendenza è stato anche il particolare successo riscontrato con il progetto **Gucci Equilibrium, che evidenzia gli sforzi per promuovere sostenibilità, diversità e inclusione.**
+## Il marketing come sempre deve adattarsi
 
- 
-
-### Il marketing del lusso deve adattarsi
-
-La pandemia ha colpito ogni tipo di attività in un modo o nell'altro. Le vendite dei brand di lusso online suggeriscono che le aziende soprattutto di fascia alta possono aspettarsi un futuro di successo se mirano con attenzione al proprio target, promuovendo un messaggio giusto e comprensivo – non solo di prodotto e con una integrazione forte con il punto vendita.
+La pandemia ha colpito ogni tipo di attività in un modo o nell'altro. Le vendite dei brand di lusso online suggeriscono che le aziende soprattutto di fascia alta possono aspettarsi un futuro di successo se mirano con attenzione al proprio target, promuovendo un messaggio che sia molto visibile e comprensivo – non solo di prodotto e con una integrazione forte con il punto vendita.
 
 <!--EndFragment-->
