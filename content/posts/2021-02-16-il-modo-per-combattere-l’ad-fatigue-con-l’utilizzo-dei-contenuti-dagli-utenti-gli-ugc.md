@@ -1,6 +1,6 @@
 ---
 title: Il modo per combattere l’ad fatigue con l’utilizzo dei contenuti dagli
-  utenti | Gli UGC
+  utenti (UGC)
 date: 2020-11-10T14:51:51.707Z
 tags:
   - Ads
