@@ -712,13 +712,17 @@ Inoltre considerare la potenza derivante la sovrapposizione dei dati – Like & 
 
 Queste sono tendenze e scelte potenziali su cui un brand del lusso oggi deve fare i conti, allinearsi, ma che non sono da intraprendere in maniera assoluta. Devono essere attentamente contestualizzate, utilizzate in base alla definizione di una strategia precisa che determinerà gli obiettivi particolari da perseguire.
 
-### Concentrarsi sui millennial
+### Concentrarsi sui Millennial
 
-Shopify ha pubblicato previsioni ottimistiche sul futuro delle vendite del lusso online. In particolare, la prima fascia di millennial è caratterizzata da individui ormai adulti, arrivati ​​al picco della loro possibilità di spesa. È veritiero pensare che potrebbero essere particolarmente inclini ad acquistare beni di fascia alta per traguardi del ciclo di vita o anche semplicemente siano più inclini a soddisfarsi nonostante il prezzo.
+Shopify ha pubblicato previsioni ottimistiche sul futuro delle vendite del lusso online. In particolare, la prima fascia di Millennial è caratterizzata da individui ormai adulti, arrivati ​​al picco della loro possibilità di spesa. È veritiero pensare che potrebbero essere particolarmente inclini ad acquistare beni di fascia alta per traguardi del ciclo di vita o anche semplicemente siano più inclini a soddisfarsi nonostante il prezzo.
 
-Rispetto ad altre generazioni, nei millennial la convivenza tra offline e online è marcata: preferiscono l’informazione, il confronto e l'acquisto online, ma l’attenzione all’esperienza offline è sempre concreta. In passato, i marchi del lusso si sono concentrati sulla differenziazione dei loro prodotti enfatizzando qualità e esclusività. Cercare di accontentare il maggior numero di persone, di diverse fasce d’età e con stili diversi è stata una scelta vincente in passato e ha ancora oggi il suo perchè, ma il cambiamento è una costante da valutare e una comunicazione più profonda, personale ed etica, supporta il brand meglio e prospetta uno sviluppo progettuale con un orizzonte temporale ampio.
+Rispetto ad altre generazioni, nei Millennial la convivenza tra offline e online è marcata: preferiscono l’informazione, il confronto e l'acquisto online, ma l’attenzione all’esperienza offline è sempre concreta. In passato, i marchi del lusso si sono concentrati sulla differenziazione dei loro prodotti enfatizzando qualità e esclusività. Cercare di accontentare il maggior numero di persone, di diverse fasce d’età e con stili diversi è stata una scelta vincente in passato e ha ancora oggi il suo perchè, ma il cambiamento è una costante da valutare e una comunicazione più profonda, personale ed etica, supporta il brand meglio e prospetta uno sviluppo progettuale con un orizzonte temporale ampio.
 
 Ad esempio, Gucci afferma che questi giovani adulti guidano quasi la metà di tutte le proprie vendite. Tra tutti il particolare successo riscontrato con il progetto **Gucci Equilibrium, che evidenzia gli sforzi per promuovere sostenibilità, diversità e inclusione.**
+
+Allo stesso tempo una cosa particolarmente apprezzata dai Millenials e che potrebbe essere qualcosa che i brand potrebbero iniziare a pensare con più frequenza riguarda lo sviluppo di nuove idee e interpretazioni attraverso le collaborazioni. **Le collaborazioni con altri brand anche molto diversi come fonte di innovazione, unicità, e che vada a rispecchiare un'unione di valori rafforzati dalle singole individualità.**
+
+Soddisfare pienamente i Millenials per posizionarsi anche rispetto alla Gen Z che amplierà tali tendenze essendo molto più influenzati da sostenibilità e responsabilità ambientale e sociale.
 
 ## Il marketing come sempre deve adattarsi
 
