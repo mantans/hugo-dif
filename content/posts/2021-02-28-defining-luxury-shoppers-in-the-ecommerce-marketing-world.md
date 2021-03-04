@@ -662,7 +662,7 @@ description: Defining Luxury Shoppers in the eCommerce Marketing World
 
 <!--StartFragment-->
 
-Necessariamente si parte da come è percepito il marketing oggi, e per molti e-commerce è ancora materia ostica. Per i molti che non conoscono le dinamiche su cui si sviluppa, è terreno insidioso. Tra ricorso ad agenzie che nascono come funghi, e la non chiarezza di vedute causa mancanza di almeno una persona interna esperta, ciò che ne deriva è spesso una gestione non contestualizzata e organizzata male.
+Necessariamente si parte da come è percepito il marketing oggi, e per molti e-commerce è ancora materia ostica. Per i molti che non conoscono le dinamiche su cui si sviluppa, non è visto come attività fondamentale. Tra ricorso ad agenzie che nascono come funghi, e la non chiarezza di vedute causa mancanza di almeno una persona interna esperta, ciò che ne deriva è spesso una gestione non contestualizzata e organizzata male.
 
 ## Come si fa la differenza?
 
