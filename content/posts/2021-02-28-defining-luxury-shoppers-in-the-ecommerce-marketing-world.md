@@ -8,13 +8,13 @@ description: Defining Luxury Shoppers in the eCommerce Marketing World
 ---
 ![](/images/uploads/2020-12-02t155123z_879794527_rc23fk9ao34b_rtrmadp_3_health-coronavirus-britain-e1611696366658.jpg)
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -53,9 +53,9 @@ description: Defining Luxury Shoppers in the eCommerce Marketing World
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="375">
@@ -632,9 +632,9 @@ description: Defining Luxury Shoppers in the eCommerce Marketing World
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Unresolved Mention"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -658,7 +658,7 @@ description: Defining Luxury Shoppers in the eCommerce Marketing World
 	mso-bidi-theme-font:minor-bidi;
 	mso-ansi-language:EN-GB;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -721,6 +721,8 @@ Rispetto ad altre generazioni, nei Millennial la convivenza tra offline e online
 Ad esempio, Gucci afferma che questi giovani adulti guidano quasi la metà di tutte le proprie vendite. Tra tutti il particolare successo riscontrato con il progetto **Gucci Equilibrium, che evidenzia gli sforzi per promuovere sostenibilità, diversità e inclusione.**
 
 Allo stesso tempo una cosa particolarmente apprezzata dai Millenials e che potrebbe essere qualcosa che i brand potrebbero iniziare a pensare con più frequenza riguarda lo sviluppo di nuove idee e interpretazioni attraverso le collaborazioni. **Le collaborazioni con altri brand anche molto diversi come fonte di innovazione, unicità, e che vada a rispecchiare un'unione di valori rafforzati dalle singole individualità.**
+
+Quindi unicità, inclusione, accessibilità e tanta autenticità – in caso di punti vendita, l’approccio apprezzato non è più quello attezzoso o formale, ma alla mano e down-to-earth, e con tanta personalizzazione degli spazi che possa accompagnare nella scoperta. **Modernità e interazione con il presente piuttosto che perpetrare atteggiamenti tipici del passato glorioso.** Esempio lampante è il successo delle collaborazioni tra brand molto diversi ma con identità specifiche, che danno un tocco deciso di modernità, di ricerca e di qualcosa che sia molto vicino alle esigenze dei consumatori.
 
 Soddisfare pienamente i Millenials per posizionarsi anche rispetto alla Gen Z che amplierà tali tendenze essendo molto più influenzati da sostenibilità e responsabilità ambientale e sociale.
 
