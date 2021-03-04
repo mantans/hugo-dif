@@ -46,3 +46,4 @@ collections:
         fields:
           - { label: 'Title', name: 'Title', widget: 'string' }
           - { label: 'Content', name: 'Content', widget: 'markdown' }
+          
