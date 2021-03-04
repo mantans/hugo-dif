@@ -45,3 +45,4 @@ collections:
         description: 'General Home Settings'
         fields:
           - { label: 'Title', name: 'Title', widget: 'string' }
+          - { label: 'Content', name: 'Content', widget: 'markdown' }
