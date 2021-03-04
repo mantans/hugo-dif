@@ -33,7 +33,7 @@ collections:
       - { label: "Date", name: "date", widget: "date" }
       - { label: "Body", name: "body", widget: "markdown" }
 
-collections:
+collections2:
   - name: "general"
     label: "Site Config"
     file: "config.yml"
