@@ -36,7 +36,6 @@ collections:
   - name: "general"
     label: "Site Config"
     file: "config.yml"
-    description: "General site settings"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Content", name: "content", widget: "string" }
