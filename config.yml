@@ -43,11 +43,9 @@ params:
     Content: >
       - Strategia, pianificazione e customer experience. 
 
-      - **Conosco** le dinamiche di acquisizione traffico, mantenimento e fidelizzazione.
+      - Definisco le dinamiche di **acquisizione traffico**, **mantenimento e fidelizzazione** degli utenti, gli **strumenti** e i **canali**. Il tutto guidato dalla necessità di **umanizzare l’esperienza d’acquisto** tramite contenuti nel giusto posto al momento esatto.
 
-      - Gli **strumenti** e i **canali**, e la **necessità** di umanizzare l’esperienza d’acquisto tramite contenuti nel giusto posto al momento adatto.
-
-      - Faccio capire **l’essenzialità** della mia attività, e il bisogno di definire un **investimento** adatto. 
+      - Il marketing è essenziale, le variabili sono tante e l’investimento deve essere adatto.
 
       - Non son un mago. Studio, guardo i numeri, conosco i modi, e gestisco le aspettative.
   images:
@@ -89,7 +87,7 @@ paginate: 5
 buildExpired: false
 Title: Fabrizio Di Fulvio
 title: Fabrizio Di Fulvio
-Content: "- Strategia, pianificazione e customer experience."
+Content: Strategia, pianificazione e customer experience
 languages:
   en:
     languageName: English
