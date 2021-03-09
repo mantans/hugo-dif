@@ -2,7 +2,7 @@
 title: "Luxury Shoppers: tra offline e ecommerce"
 date: 2021-02-28T22:00:42.718Z
 tags:
-  - luxuryshoppers
+  - strategy segmantation luxuryshoppers
 categories: Digital Organization
 description: "Definire l'esperienza per i clienti dell'alta gamma: customer
   journey, segmentazione, e comunicazione personalizzata"
