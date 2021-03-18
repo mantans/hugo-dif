@@ -10,19 +10,7 @@ categories: Strategia
 description: "Il modello di crescita sostenibile nel lungo periodo e la
   segmentazione come base di qualsiasi strategia "
 ---
-![](/images/uploads/shutterstock_263091443-people-pie-wider-e1499788074769.jpeg)
 
-- - -
-
-title: "Transactional behaviour segmentation(1): modello di crescita e tecniche
-  di segmentazione"
-date: 2021-03-18T13:45:46.491Z
-tags:
-
-* segmentazione
-* ecommerce
-* RFM
-  categories: Strategia
 
 - - -
 
