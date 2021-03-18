@@ -44,7 +44,7 @@ C’è chi si focalizza sulla **continua acquisizione**, in quel caso la crescit
 Il contesto in cui viviamo però ci ricorda continuamente che il traffico così generato diventerà sempre più costoso a causa dell’aumento progressivo dei nuovi inserzionisti, e delle imminenti modifiche relative ai cookie. Conti alla mano avere una strategia del genere non è la scelta migliore già nel medio periodo.
 
 Un modello di crescita più ragionevole è rappresentato dal numero di clienti attuali che moltiplica il rapporto tra il Customer Lifetime Value e Costo Acquisizione Clienti - **Growth = #C x (CLT/CAC).**\
-In questo approccio l’attenzione ricade da come è composto il Customer Lifetime Value, che in linea di massima deve essere definito valutando:
+In questo approccio l’attenzione ricade su **come è composto il Customer Lifetime Value e  ne valuta la Retention**, che in linea di massima è definito secondo:
 
 * Una segmentazione Recency-Frequency-Monetary, che seziona il database esistente secondo i dati relativi agli acquisti: quanto **recente**, con quale **frequenza** nel tempo avvengono, con quale **valore monetario** (medio).
 * i margini relativi ai prodotti in vendita, per capire quanto in base al tipo di acquisti fatti, un cliente è redditizio (importante per gli ecommerce con un’ampia offerta).
