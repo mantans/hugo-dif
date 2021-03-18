@@ -1,5 +1,5 @@
 ---
-title: "Transactional behaviour segmentation(1): modello di crescita e tecniche
+title: "Transactional Behaviour Segmentation(1): modello di crescita e tecniche
   di segmentazione"
 date: 2021-03-18T14:25:25.824Z
 tags:
@@ -7,8 +7,9 @@ tags:
   - ecommerce
   - RFM
 categories: Strategia
-description: "Il modello di crescita sostenibile nel lungo periodo e la
-  segmentazione come base di qualsiasi strategia "
+description: Un modello di crescita sostenibile nel lungo periodo e la
+  segmentazione come base organizzativa per massimizzare la soddisfazione degli
+  utenti.
 ---
 
 
