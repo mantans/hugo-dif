@@ -13,7 +13,7 @@ description: Un modello di crescita sostenibile nel lungo periodo e la
 ---
 - - -
 
-![](/images/uploads/different-levels-of-market-segmentation-تجزئة-السوق.jpeg)
+![](/images/uploads/1_tfwxnhachk5q5wwvqqxsja.png)
 
 ## Come si fa crescere un ecom?
 
