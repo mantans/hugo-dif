@@ -11,8 +11,6 @@ description: Un modello di crescita sostenibile nel lungo periodo e la
   segmentazione come base organizzativa per massimizzare la soddisfazione degli
   utenti.
 ---
-
-
 - - -
 
 ![](/images/uploads/shutterstock_263091443-people-pie-wider-e1499788074769.jpeg)
@@ -32,7 +30,7 @@ Gli elementi da analizzare sono raggruppabili in tre momenti e accadono:\
 C’è chi si focalizza sulla **continua acquisizione**, in quel caso la crescita è tutta nella valutazione della qualità del traffico in entrata e che ha origin fuori dal sito, la % di conversione sul sito e l’entità dell’acquisto medio. \
 Il contesto in cui viviamo però ci ricorda continuamente che il traffico così generato diventerà sempre più costoso a causa dell’aumento progressivo dei nuovi inserzionisti, e delle imminenti modifiche relative ai cookie. Conti alla mano avere una strategia del genere non è la scelta migliore già nel medio periodo.
 
-Un modello di crescita più ragionevole è rappresentato dal numero di clienti attuali che moltiplica il rapporto tra il Customer Lifetime Value e Costo Acquisizione Clienti - **Growth = #C x (CLT/CAC).**\
+Un modello di crescita più ragionevole è rappresentato dal numero di clienti attuali che moltiplica il rapporto tra il Customer Lifetime Value e Costo Acquisizione Clienti - **Growth = Numero Clienti x (Customer Lifetime Value/Costo Acquisizione Cliente).**\
 In questo approccio l’attenzione ricade su **come è composto il Customer Lifetime Value e  ne valuta la Retention**, che in linea di massima è definito secondo:
 
 * Una segmentazione Recency-Frequency-Monetary, che seziona il database esistente secondo i dati relativi agli acquisti: quanto **recente**, con quale **frequenza** nel tempo avvengono, con quale **valore monetario** (medio).
