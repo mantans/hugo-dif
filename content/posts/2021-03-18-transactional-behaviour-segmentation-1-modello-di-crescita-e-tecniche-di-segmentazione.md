@@ -13,7 +13,7 @@ description: Un modello di crescita sostenibile nel lungo periodo e la
 ---
 - - -
 
-![](/images/uploads/shutterstock_263091443-people-pie-wider-e1499788074769.jpeg)
+![](/images/uploads/different-levels-of-market-segmentation-تجزئة-السوق.jpeg)
 
 ## Come si fa crescere un ecom?
 
