@@ -3,7 +3,7 @@ title: "Store appena nato: da ZERO a 38.567€ in 1 mese"
 date: 2020-09-29T13:40:13.229Z
 tags:
   - Ads
-  - e-commerce
+  - ecommerce
   - scalare
 categories: Canali & Adv
 description: "Store appena nato: da ZERO a 38.567€ in 1 mese"
