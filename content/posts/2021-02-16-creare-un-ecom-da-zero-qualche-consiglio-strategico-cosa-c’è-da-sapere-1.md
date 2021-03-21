@@ -1,8 +1,8 @@
 ---
-title: Creare un ecom da zero? Qualche consiglio strategico | Cosa c’è da sapere
+title: Creare un ecom da zero? Qualche consiglio strategico. Cosa c’è da sapere.
 date: 2020-09-22T13:28:15.839Z
 tags:
-  - e-commerce
+  - ecommerce
   - strategy
 categories: Strategia
 description: Creare un ecom da zero? Qualche consiglio strategico | Cosa c’è da sapere
