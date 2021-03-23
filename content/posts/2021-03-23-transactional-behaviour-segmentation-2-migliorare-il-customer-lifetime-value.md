@@ -1,7 +1,7 @@
 ---
 title: "Transactional Behaviour Segmentation(2): migliorare il Customer Lifetime
   Value"
-date: 2021-03-23T08:55:44.418Z
+date: 2021-03-24T08:55:44.418Z
 tags:
   - EmailMarketing
   - Retention
