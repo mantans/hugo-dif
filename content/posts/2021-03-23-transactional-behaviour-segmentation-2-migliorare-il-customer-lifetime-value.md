@@ -7,6 +7,7 @@ tags:
   - Retention
   - CustomerJourney
   - CLV
+  - JobsToBeDone
 categories: Strategy
 description: Cura del cliente invece che sola gestione del prodotto in vendita,
   in un ambiente caratterizzato da touchpoint multipli e conversazione ad ogni
