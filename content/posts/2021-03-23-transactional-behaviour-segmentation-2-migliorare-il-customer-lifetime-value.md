@@ -89,6 +89,6 @@ Un touchpoint post-sale organizzato in questo modo è l’ultimo step di una fun
 
 Un incremento dell’1% del Retention Rate sui segmenti alto spendenti può portare fino ad un +20% del fatturato.
 
-Personalmente credo che l'equilibrio sia in un connubio di queste due visioni in ogni fase del ciclo di vita di un'azienda. Avendo a disposizione così tanti strumenti il punto d'incontro si trova tra chi è responsabile del prodotto e chi invece lo deve vendere e deve quindi pensare ai proprio clienti.
+Personalmente credo che l'equilibrio sia in un connubio di queste due visioni in ogni fase del ciclo di vita di un'azienda. Avendo a disposizione tanti strumenti nel mercato che risolvono le necessità di un ecom, il punto d'incontro si trova attraverso il compromesso tra chi è responsabile del prodotto e chi invece lo deve vendere e deve quindi pensare ai propri clienti.
 
 Se poi si vuole portare questo approccio oltre, non potrebbe essere sufficiente lavorare sulla Rentention ma piuttosto sull’Advocacy per rendere il moltiplicatore ancora più ponderato, ma questa è una fase successiva.
