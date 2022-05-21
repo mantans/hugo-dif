@@ -16,11 +16,11 @@ Lavoro con ecommerce grandi e con un discreto storico, ma anche piccoli alla ric
 
 **Organizzazione e quadra delle attività, operatività e risorse, con l’obiettivo ultimo di aumentare le conversioni intermedie e quelle finali – Visibilità, Conoscenza, Interazione, Vendita e Retention.**
 
-Il tutto tramite la definizione del rapporto tra fonti di traffico, asset aziendali e investimento, con il pallino della customer journey e experience. Quello che conta per ogni azienda nel periodo è massimizzare il valore fornito agli utenti in relazione alla potenziale monetizzazione delle attività, conoscenza del brand e della nichhia.
+Il tutto tramite la definizione del rapporto tra fonti di traffico, asset aziendali e investimento, con il pallino della customer journey e experience. Quello che conta per ogni azienda nel periodo è massimizzare il valore fornito agli utenti in relazione alla potenziale monetizzazione delle attività, conoscenza del brand e della nicchia.
 
 *Ho lavorato in Germania in Rocket Internet e Hometogo, continuando da freelance in Italia con altre aziende tedesche e americane, in team da me strutturati e gestiti, e in agenzie di comunicazione*.
 
-*Ho collaborato con aziende come TheProteinWorks, Karcher, Euronics, StrongerLabel, Modomoto, MC2SaintBarth, Habitissimo, RisoScotti, e altre nei settori più disparati, sia in situazioni di digitalizzazione dei processi e creazione del team, che di ottimizzazione e aumento delle performance*.
+*Ho collaborato con aziende come TheProteinWorks, Karcher, Dimo Store, StrongerLabel, Modomoto, MC2SaintBarth, Habitissimo, gcds, RisoScotti, e altre nei settori più disparati, sia in situazioni di digitalizzazione dei processi e creazione del team, che di ottimizzazione e aumento delle performance*.
 
 **Per altre info, qui il mio profilo** [Linkedin](https://www.linkedin.com/in/fabrizio-di-fulvio-502b4815/).
 
